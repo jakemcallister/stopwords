@@ -30,7 +30,8 @@ module Stopwords
     'though','your','but','in','other','through','yours','by','inc','others',
     'throughout','yourself','can','indeed','otherwise','thru','yourselves','bt','jst',
     'iv','x','xx','xxx','xxxx''xxxxx','ya','yeah','yo','here','oh','ha','haha','haaaa',
-    'ahahaha','go','do','hola','pls','lol','p'
+    'ahahaha','go','do','hola','pls','lol','p','mah','eh','aw','tryna','run','u','ur','d','r',
+    'nw','lool','loool','looool','hehe','hehehe','aw','aww','awww','heh','ar','ooh','ooo','did'
     ]
   TOKEN_REGEXP = /^[a-z]+$|^\w+\-\w+|^[a-z]+[0-9]+[a-z]+$|^[0-9]+[a-z]+|^[a-z]+[0-9]+$/ 
   
