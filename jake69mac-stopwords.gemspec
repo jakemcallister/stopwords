@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = %q{jake69mac-stopwords}
   s.author = %q{jake mcallister}
-  s.version = "1.0.0"
+  s.version = "1.1.0"
   s.date = %q{2012-06-20}
   s.summary = %q{list of stopwords handy to remove words}
   s.files = [
