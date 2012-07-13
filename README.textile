@@ -1,3 +1,5 @@
+<a href='http://www.pledgie.com/campaigns/17816'><img alt='Click here to lend your support to: Stopwords Fund raising and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/17816.png?skin_name=chrome' border='0' /></a>
+
 h1. STOPWORDS
 
 h2. REALLY JUST A LIST OF STOPWORDS WITH SOME HELPERS
